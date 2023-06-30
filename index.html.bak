@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CV Nikolai Kosenok</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<main class="container">
+		<div class="left-column">
+
+			
+			<h3><b>Address</b></h3>
+			<p>Turkey, Aydin, Kusadasi</p>
+			<p>+90 (534) 477-47-26</p>
+			<p>
+				<a href="https://t.me/happy_cat0" target="_blank">
+					<img src="telegram.png" alt="Telegram">
+				</a>
+				<a href="https://api.whatsapp.com/send?phone=905344774726" target="_blank">
+					<img src="whatsapp.png" alt="WhatsApp">
+				</a>
+			</p>
+			<p> +7 (950) 004-08-66 </p>
+			<p>
+				<a href="https://t.me/kokosko" target="_blank">
+					<img src="telegram.png" alt="Telegram">
+				</a>
+				<a href="https://api.whatsapp.com/send?phone=79500040866" target="_blank">
+					<img src="whatsapp.png" alt="WhatsApp">
+				</a>				
+			</p>
+			<p><a href="https://www.linkedin.com/in/kokosko" target="_blank">LinkedIn</a></p>
+			<h3><b>Email</b></h3>
+			<p><a href="mailto:kosenoknv@gmail.com" target="_blank">kosenoknv@gmail.com</a></p>
+			<p><a href="mailto:1kokos@bk.ru" target="_blank">1kokos@bk.ru</a></p>
+			<h3><b>Languages</b></h3>
+			<p>Russian - native</p>
+			<p>English - B1+</p>
+			<p>Español - A2</p>
+			
+			<h3>Hard skills</h3>
+				<p>Python (basic), JavaScript (basic) 
+				<a href="https://www.codewars.com/users/Kokosko"> <img  src=					"https://www.codewars.com/users/Kokosko/badges/micro"  alt="codewars"></a></p>
+				<p>HTML, CSS</p>
+				<p>General software testing theory</p>
+				<p>Test documentation</p>
+				<p>Client-server architecture, <a href="https://github.com/Kokos001/Postman.git">Postman</a></p>
+				<p><a href="https://github.com/Kokos001/LinuxTerminal.git">Linux Terminal</a></p>
+				<p>Databases <a href="https://github.com/Kokos001/SQL.git">PostgreSQL and MySQL</a></p>
+				<p>Load testing with JMeter</p>
+				<p>Charles, Fiddler</p>
+				<p>Mobile application testing</p>
+				<p>Android Studio</p>
+			<h3><b>Soft skills</b></h3>
+				<p>Willingness to take responsibility for the results</p>
+				<p>Ability to stay calm in stressful situations</p>
+				<p>High-level communication skills with colleagues</p>
+			
+		</div>
+		<div class="right-column text">
+			
+			<a href="https://kokos001.github.io/CV/"><button>RU</button></a>
+			<h1><b>Nikolay Kosenok</b><a href="https://kokos001.github.io/CV/"><button>RU</button></a></h1>
+			<h1>QA Engineer</h1>
+			<hr style="border-color: light-grey; margin-bottom: 10px;">
+			<h3>Work Experience</h3>
+			<h4>2023.03 - present: QA Trainee at ITX Company</h4>
+				<p>Regression testing (Test cases/checklists), smoke testing</p>
+				<p>Bug report creation</p>
+				<p>Bug reproduction</p>
+				<p>Documentation review (Test cases/checklists)</p>		
+			<h4>2021.12 - present: Testing on the uTest platform</h4>
+				<p>Completing courses at the uTest Academy</p>
+				<p>Ad-hoc testing of various products and filing bug reports</p>
+			<h4>2022.07 - present: Entrepreneur</h4>
+				<p>Fulfilling orders for creating technical documentation for and its technical add-ons: drawings, schematics, route maps, etc.</p>
+				<p>Individual enterprise bookkeeping</p>
+				<p>Quality control of technical documentation, ensuring its compliance with the existing requirements and standards.</p>
+				<p>Expert application of standards and regulatory requirements for technical documentation, such as GOSTs, ISO standards, and other regulatory documents.</p>
+				<p>Coordinating work with external suppliers and contractors to gather necessary information and data for creating technical documentation.</p>
+			
+			<h4>2019.02 - 2022.03: MOEX, Stock Market</h4>
+				<p>Efficient investment portfolio management, with high level of performance and maximized returns.</p>
+				<p>Active investment activities in the stock market, achieving an annual return of 50% of the turnover capital in 2020.</p>
+				<p>Demonstrating skills in analyzing and forecasting stock trends to make informed investment decisions.</p>
+			<h4>2011.08 - 2019.02: <a href="http://english.ckti.ru/" target="_blank">JSC "NPO CKTI"</a> (Laboratory of Pump Equipment Development and Research), Engineer</h4>
+				<p>Carrying out tasks at all stages of the pump equipment production life cycle, including coordinating supply contract details, developing technical documentation, supervising the assembly and commissioning of finished units.</p>
+				<p>Implementing digital modeling techniques for hydrodynamic processes using modern software complexes in the flow parts of hydraulic machines.</p>
+				<p>Developing various documentation, including quality plans, routing maps, certificates of conformity, invoices, bills of lading, payment invoices, technical specifications, and explanatory notes.</p>
+				<p>Ensuring compliance with safety rules and standards in equipment development and production.</p>
+				<p>Identifying and analyzing defects and deviations during equipment manufacturing, developing recommendations for their elimination.</p>
+				<p>Completing the full cycle of testing of the pump sealing equipment, including contract preparation and coordination, project documentation development, monitoring contract execution with subcontractors, assembly of the test stand, conducting tests, and preparing reports.</p>
+				<p>Participating in equipment acceptance procedures with authorized organizations and customers.</p>
+				<p>Participating in equipment certification and accreditation work, preparing the necessary documentation, and facilitating the procedures.</p>
+				<p>Managing and updating documentation in accordance with changes and improvements in the production process.</p>
+				<p>Participating in the development of a unique pump with supercritical parameters with a hydro-turbine drive and performing mathematical calculations of the operation of hydrostatic bearings in conjunction with cyclone filters.</p>
+				
+			
+									
+			<hr style="border-color: light-grey; margin-bottom: 10px;">
+			<h3>Education</h3>
+				<h4>2023.02 - present: "Software Testing" courses by Vadim Ksendzov</h4>
+
+				<h4>2005-2011: <a href="https://english.spbstu.ru/" target="_blank">Peter the Great St. Petersburg Polytechnic University (SPbPU)</a></h4>
+					<p>Master of Technical Sciences, specialization in "Hydraulic Machines, Hydraulic Drives, and Hydro-Pneumatic Automation"</p>
+		</div>
+		
+	</main>
+	<footer>
+		
+	</footer>
+
+</body>
+</html>
